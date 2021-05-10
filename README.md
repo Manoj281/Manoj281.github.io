@@ -8,4 +8,4 @@ It now includes steps for Github.
 
 Hello again!
 
-made some change in READ.md
+made some change again in READ.md
